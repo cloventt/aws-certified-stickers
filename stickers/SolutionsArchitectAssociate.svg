@@ -114,8 +114,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Cut"
-     style="display:inline"><path
+     style="display:none"><path
        id="path1-2"
-       style="display:none;vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       style="display:inline;vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
        inkscape:label="cutline"
        d="M 21.389363,0.98598665 C 14.498698,4.9614938 7.6111125,8.9423822 0.71852718,12.914532 c 0,8.057245 2.1e-7,16.11449 0,24.171734 6.98026052,4.022507 13.95508782,8.054504 20.93370082,12.079893 6.977318,-4.025333 13.950754,-8.057441 20.929719,-12.079893 0,-8.057244 0,-16.114489 0,-24.171734 C 35.602984,8.8920775 28.629546,4.8599763 21.652228,0.8346396 l -0.176717,0.10174811 z" /></g></svg>

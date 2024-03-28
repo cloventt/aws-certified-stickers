@@ -9,7 +9,7 @@
    id="svg1"
    xml:space="preserve"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
-   sodipodi:docname="DeveloperAssociate.svg"
+   sodipodi:docname="DeveloperAssociate-with-cutline.svg"
    inkscape:export-filename="SysOpsAdministratorAssociate.png"
    inkscape:export-xdpi="586.58789"
    inkscape:export-ydpi="586.58789"
@@ -107,7 +107,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Cut"
-     style="display:none"><path
+     style="display:inline"><path
        id="path1-2"
        style="display:inline;vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#ff00ff;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
        inkscape:label="cutline"
